@@ -24,13 +24,15 @@ public class Main {
         int nr2 = Common.scanner.nextInt();
         swapToVariables.swap(nr1, nr2);
 
+        System.out.println("This is all for one day!");
+
 
 
         // Array (addNumber, displayArray, maximSize, sorting?)
 //        int[] myArray = new int[Array.getMaximSize()];
 //        Array.addNumbersInArray(myArray);
 //        Array.displayArray(myArray);
-//        Array.ascendingSorting(myArray);
+//        Array.ascendingSorting(myArray)
     }
 
 }
