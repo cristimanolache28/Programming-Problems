@@ -25,6 +25,24 @@ public class Main {
         swapToVariables.swap(nr1, nr2);
 
         System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+        System.out.println("This is all for one day!");
+
+
+
+
+
+
+
+
 
 
 
@@ -32,7 +50,7 @@ public class Main {
 //        int[] myArray = new int[Array.getMaximSize()];
 //        Array.addNumbersInArray(myArray);
 //        Array.displayArray(myArray);
-//        Array.ascendingSorting(myArray)
+//        Array.ascendingSorting(myArray);
     }
 
 }
